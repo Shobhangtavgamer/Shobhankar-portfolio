@@ -28,6 +28,6 @@ Welcome to my personal developer portfolio — a showcase of my skills, projects
 ---
 
 ## 🌐 Website
-Live Portfolio: [View Site](https://shobhankar.github.io/)
+Live Portfolio:file:///C:/Users/Shobhan/OneDrive/Desktop/Coding/Html/portfiolio.html
 
-Connect on [LinkedIn](https://www.linkedin.com/in/shobhankar)
+Connect on (https://www.linkedin.com/in/shobhankar)
